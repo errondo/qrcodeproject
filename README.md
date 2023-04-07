@@ -26,8 +26,8 @@ Add a screenshot of your solution. The easiest way to do this is to use Firefox 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://errondo.github.io/qrcodeproject)
-- Live Site URL: [Add live site URL here](errondo.github.io/qrcodeproject)
+- Solution URL: [my solution](https://errondo.github.io/qrcodeproject)
+- Live Site URL: [live site](errondo.github.io/qrcodeproject)
 
 ## My process
 
